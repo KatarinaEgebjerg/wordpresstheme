@@ -27,13 +27,13 @@ body {
  
 header,
 footer {
-    background: #333;
+    background: #c74f71;
     color: #fff;
     text-align: center;
     padding: 20px 0;
 }
  
 a {
-    color: #333;
+    color: #c74f71;
     text-decoration: none;
 }
